@@ -1,0 +1,131 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+
+
+	width:100%;
+
+	overflow: hidden;
+}
+
+/*#snmpHome {
+	width: 	100%;
+
+}
+
+
+#scene1 {
+	background: #A3DAD6;
+
+	
+}
+#scene2 {
+	background: #B8DAD6;
+
+	
+}
+#scene3 {
+	background: #FCD2BF;
+
+	
+}*/
+#scene4 {
+	background: #ffffff;
+
+	
+}
+/*#scene5 {
+	background: #CFDB99;
+
+	
+}
+*/
+/*figure {
+	height:100%;
+	display:block;
+	background: #ffffff;
+    
+}*/
+/*
+	background: linear-gradient( #A3DAD6 15%, #B8DAD6 35%, #FCD2BF 55%, #ffffff 75%,  #CFDB99);
+*/
+
+
+#user01{
+	behavior: url(ms-transform.htc);
+}
+
+#users{
+	opacity:0;
+}
+#earth {
+	behavior: url(ms-transform.htc);
+	-webkit-transform-origin: 50% 50%;
+		-ms-transform-origin: 50% 50%;
+		-moz-transform-origin: 50% 50%;
+		transform-origin: 50% 50%;
+}
+
+.skrollable {
+	position: fixed;
+	z-index: 100;
+}
+.skrollable .skrollable {
+    position: absolute;
+}
+.skrollable .skrollable .skrollable {
+    position: absolute;
+}
+.skrollable .skrollable .skrollable .skrollable {
+    position: static;
+}
+
+
+#scrolling {
+	cursor: pointer;
+}
+/*text {
+	font-family: 'KlavikaBold-Bold';
+}
+*/
+/*#user1 {
+	width: 100px;
+	height: 100px;
+	top:130px;
+	left: 0px;
+}
+#user2 {
+	width: 100px;
+	height: 100px;
+	top:420px;
+	left: 150px;
+}
+#user3 {
+	width: 100px;
+	height: 100px;
+	top:350px;
+	left: 300px;
+}
+#user4 {
+	width: 100px;
+	height: 100px;
+	top:530px;
+	left: 450px;
+}
+#user3 {
+	width: 100px;
+	height: 100px;
+	top: 50px;
+	left: 600px;
+}
+
+.test {
+	position: absolute;
+	background: #fff;
+}*/

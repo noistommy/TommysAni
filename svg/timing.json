@@ -1,0 +1,27 @@
+{
+  "scene1": {
+    "offset": 0,
+    "duration": 6000,
+    "menuoffset":300
+  },
+  "scene2": {
+    "offset": 0,
+    "duration": 21000,
+    "menuoffset":600
+  },
+  "scene3": {
+    "offset": 0,
+    "duration": 4000,
+    "menuoffset":0
+  },
+  "scene4": {
+    "offset": 0,
+    "duration": 3000,
+    "menuoffset":1440
+  },
+  "scene5": {
+    "offset": 0,
+    "duration": 2000,
+    "menuoffset":1000
+  }
+}
